@@ -1,0 +1,82 @@
+/* Cardinal Speed — style.css */
+/* Styling pass TBD. This file holds the reset and base only for now. */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Georgia, serif;
+  line-height: 1.6;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+a {
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+ul {
+  list-style: none;
+}
+
+/* Layout */
+.site-nav {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 2rem;
+}
+
+.nav-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.site-footer {
+  margin-top: 4rem;
+  padding: 2rem 0;
+  border-top: 1px solid #ccc;
+  font-size: 0.875rem;
+}
+
+/* Page sections */
+.page-header {
+  margin-bottom: 2rem;
+}
+
+.page-header h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.post-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.post-card h2 {
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.post-meta {
+  font-size: 0.875rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
