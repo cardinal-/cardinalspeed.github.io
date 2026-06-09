@@ -1,0 +1,17 @@
+title: Cardinalspeed
+description: Cars, bikes, motorcycles — the things worth fixing and the culture around them.
+url: "https://cardinalspeed.com"
+baseurl: ""
+
+author: Matt Cardinal
+email: ""
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
