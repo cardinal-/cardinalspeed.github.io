@@ -57,5 +57,3 @@ I'm going to shoot film with it. I'll post what comes out of it here.
 ![Canon AE-1 top view](/images/AE-1-09.png)
 
 My mom wanted to give me a gift that I could say was from her. I'd been so sad about losing that camera so long ago, this felt like the right answer. And now that's what the camera is, more than anything else, evidence that my mom wants me to be happy. I'll think about her every time I click the shutter.
-
-That's worth more than the whole collection I gave away.
