@@ -13,5 +13,6 @@ permalink: /blog/:year/:month/:day/:title/
 # Exclude from build
 exclude:
   - README.md
+  - WORKFLOW.md
   - Gemfile
   - Gemfile.lock
