@@ -2,7 +2,7 @@
 layout: post
 title: "The camera my mom sent me"
 date: 2026-06-10
-category: Culture
+category: Photography
 summary: A Canon AE-1, a bad trade I made in the early 2000s, and the power of objects that connect us to people.
 intro: Some things are worth more than what they cost. The Canon AE-1 sitting on my desk right now is one of them.
 ---
@@ -31,7 +31,7 @@ Later in life, I'd scraped enough cash together to get a Canon AE-1. I got it ch
 
 Years later, when digital cameras got good enough to matter, I made a trade I've regretted ever since. I gave up a collection that included the AE-1, a medium format Hasselblad clone, a couple of Polaroid SX-70s, and a Canonet rangefinder with an f/1.8 lens plus glass for all of the cameras that were interchangeable. All for one mid-level digital camera. The trade wasn't balanced and I knew it when I made it, but the temptation of convenience was too strong.
 
----
+
 
 ![Canon AE-1 three-quarter view](/images/AE-1-03.png)
 
@@ -45,13 +45,16 @@ The body is compact and well-balanced, the FD lens mount is excellent, and the g
 
 The shutter has a characteristic sound that anyone who shot with one in the 80s will recognize immediately. There's a small mechanical squeal on some bodies called the "AE-1 squeal" that comes from the mirror damper drying out. Easy fix with a drop of lubricant. Mine doesn't have it, which either means the previous owner sorted it out or the camera lived an easy life before it got to me.
 
----
+
 
 ![Canon AE-1 side profile](/images/AE-1-05.png)
 
 I have a fine art background. I paint and draw. I fix things with my hands and I care about how things are made. The AE-1 fits that sensibility, a machine that was designed with real intention, built to last, and honest about what it is.
 
 I'm going to shoot film with it. I'll post what comes out of it here.
+
+
+![Canon AE-1 top view](/images/AE-1-09.png)
 
 My mom wanted to give me a gift that I could say was from her. I'd been so sad about losing that camera so long ago, this felt like the right answer. And now that's what the camera is, more than anything else, evidence that my mom wants me to be happy. I'll think about her every time I click the shutter.
 
