@@ -145,10 +145,18 @@ ul { list-style: none; }
 .footer-links a {
   color: #999;
   text-decoration: none;
-  letter-spacing: 0.06em;
+  display: flex;
+  align-items: center;
+  line-height: 0;
 }
-.footer-links a:hover { color: #111; }
-.footer-divider { color: #ccc; }
+.footer-links a:hover .footer-icon { fill: #111; }
+.footer-icon {
+  width: 24px;
+  height: 24px;
+  fill: #bbb;
+  transition: fill 0.15s;
+  display: block;
+}
 .footer-copy { color: #bbb; }
 
 /* Page header */
