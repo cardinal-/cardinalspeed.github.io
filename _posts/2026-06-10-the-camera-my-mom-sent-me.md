@@ -35,13 +35,13 @@ Years later, when digital cameras got good enough to matter, I made a trade I've
 
 ![Canon AE-1 three-quarter view](/images/AE-1-03.png)
 
-The Canon AE-1 came out in 1976 and changed how cameras were made and sold. It was the first camera to use a central processing unit. Canon built a microcomputer into it at a time when that was genuinely radical. The idea was to take the intimidating variables out of exposure and hand the photographer a reliable starting point. Shutter-priority auto exposure: you set the shutter speed, the camera sets the aperture. It allowed users to think more creatively.
+The Canon AE-1 came out in 1976 and changed how cameras were made and sold. It was the first camera to use a central processing unit. Canon built a microcomputer into it at a time when that was pretty radical. The idea was to take the intimidating variables out of exposure and hand the photographer a reliable starting point. Shutter-priority auto exposure: you set the shutter speed, the camera sets the aperture. It allowed users to think more creatively.
 
 It worked. Canon sold over a million AE-1s in the first two years. They marketed it directly to young people: "So advanced, it's simple" and it landed. An entire generation learned photography on this camera.
 
 ![Canon AE-1 lens detail](/images/AE-1-04.png)
 
-The body is compact and well-balanced, the FD lens mount is excellent, and the glass available for it is genuinely good. It's not an F-1, Canon's professional body at the time was a different animal entirely, but the AE-1 was never trying to be. It was trying to be dependable, accessible, and capable enough to get out of your way. Fifty years later, that's still what it is.
+The body is compact and well-balanced, the FD lens mount is excellent, and the glass available for it is really good. It's not an F-1, (Canon's professional body at the time was a different animal entirely) but the AE-1 was never trying to be. It was trying to be dependable, accessible, and capable enough to get out of your way. Fifty years later, that's still what it is.
 
 The shutter has a characteristic sound that anyone who shot with one in the 80s will recognize immediately. There's a small mechanical squeal on some bodies called the "AE-1 squeal" that comes from the mirror damper drying out. Easy fix with a drop of lubricant. Mine doesn't have it, which either means the previous owner sorted it out or the camera lived an easy life before it got to me.
 
