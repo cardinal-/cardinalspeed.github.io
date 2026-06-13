@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Finding the Blue One"
+title: "I found my dream car!"
 date: 2022-08-12
 category: Cars
 summary: A 1973 BMW 2002, a Craigslist ad in Austin, and a paper trail that leads back to a US Army base outside Frankfurt.
-intro: I filed this car under "someday" in high school. If you aren't careful, someday can slip away.
+intro: It was time to stop telling myself "someday".
 ---
 
 ![1973 BMW 2002 on the flatbed, front view](/images/2002-06.jpg)
@@ -57,7 +57,7 @@ They fixed the frame rail and sorted the brakes. The bill arrived with Ferrari-s
 
 ---
 
-It's been two years. The car still needs work. It doesn't drive like a dream yet. But I get it out to cars and coffee sometimes, and to the vintage Euro nights at Top Notch, and every time I do I think about Donald Campbell driving away from BMW Heiland in the summer of 1973 with a new car, a fresh antenna, and a dented bumper, headed back to base to figure out how to ship it home. He had it for a few weeks. I've had it for two years and counting.
+It's been two years. The car still needs work. It doesn't drive like a dream yet. But I get it out to cars and coffee sometimes, and to the vintage Euro nights at Top Notch. It needs struts and the transmission doesn't shift into 2nd without knowing the handshake. I'll get to it. I've had it for two years and counting.
 
 Still blue. There's more to do. I'll be writing about it as it happens.
 
