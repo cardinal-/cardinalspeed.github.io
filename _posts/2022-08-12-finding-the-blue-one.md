@@ -23,7 +23,7 @@ The car spent most of its life in Texas after that, and I have some receipts tha
 
 ---
 
-I was in high school in Salem, Oregon when I first saw a 2002. I remember walking around dwontown and this car caught my eye. It was blue, upright, more glass than seemed reasonable for something that small. Clean and simple in a way that felt purposeful. I didn't know what it was at first, but I knew it was something. I found out, filed it somewhere in the back of my mind under "someday," and went on with my life.
+I was in high school in Salem, Oregon when I first saw a 2002. I remember walking around downtown and this car caught my eye. It was blue, upright, more glass than seemed reasonable for something that small. Clean and simple in a way that felt purposeful. I didn't know what it was at first, but I knew it was something. I found out, filed it somewhere in the back of my mind under "someday," and went on with my life.
 
 Someday has a way of getting away from you. I spent twenty years in the bicycle industry, Eventually starting my own custom bicycle fabrication company. I slowly took on small motorcycle and car projects just to learn more about engines. The 2002 stayed filed where I'd put it. Then I got a little older and realized that someday doesn't wait forever. If I was going to have one, I needed to actually go get one.
 
