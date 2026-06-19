@@ -163,7 +163,7 @@ The financial reality was part of our conversations almost every day.
 </figure>
 
 <figure class="post-image">
-  <img src="/images/signal/FremontBook.jpg" alt="The Fremont book">
+  <img src="/images/signal/FremontBook.png" alt="The Fremont book">
   <figcaption>Ziba published a nice book documenting our collaboration</figcaption>
 </figure>
 
@@ -180,8 +180,8 @@ Working with Ziba planted something in me. I started thinking seriously about in
 ---
 
 <figure class="post-image">
-  <img src="/images/signal/signal-12.jpg" alt="Nate at the shop, later years">
-  <figcaption>Nate, still building, in the later years</figcaption>
+  <img src="/images/signal/signal-12.jpg" alt="the shop, later years">
+  <figcaption>Hosting friends and fellow builders at the shop</figcaption>
 </figure>
 
 ## The End
