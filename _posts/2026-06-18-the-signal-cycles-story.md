@@ -5,6 +5,7 @@ date: 2026-06-18
 category: Bikes
 summary: Two former painting majors traded their brushes for a welding torch and built one of Portland's quietly remarkable custom bicycle companies, for about a decade, before letting it go.
 intro: In the fall of 2007, two bike mechanics and former painting majors picked up a torch in a small garage in North Portland. This is how Signal Cycles started, what it became, and how it ended.
+---
 
 <figure class="post-image">
   <img src="/images/signal/signal-01.jpg" alt="Signal Cycles garage workshop">
