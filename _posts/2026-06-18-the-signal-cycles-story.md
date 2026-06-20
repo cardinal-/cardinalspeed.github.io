@@ -3,7 +3,7 @@ layout: post
 title: "Signal Cycles: A Portland Story"
 date: 2026-06-18
 category: Bikes
-summary: Two former painting majors traded their brushes for a welding torch and built one of Portland's quietly remarkable custom bicycle companies, for about a decade, before letting it go.
+summary: How two bike mechanics with painting degrees started a building one of a kind dream machines for about a decade, before quietly letting it go.
 intro: In the fall of 2007, two bike mechanics and former painting majors picked up a torch in a small garage in North Portland. This is how Signal Cycles started, what it became, and how it ended.
 ---
 
@@ -18,7 +18,7 @@ Nate Meschke arrived at Bike Gallery, having just moved to Portland from Nebrask
 
 Around that time I was doing light work for Sacha White at Vanilla Bicycles. Nothing formal. Packing completed frames, shipping them out, building some wheels and watching a builder at the top of his craft run a company he clearly loved. I have a vision of him busy at his workbench, singing a Journey song and thinking: that's what it looks like to love what you do for a living.
 
-That example was inspiring. I started doing small fabrication work, adding dropouts to an old frame, making a front rack, adding braze-ons where they were needed. Then I bought a tube set. I built a singlespeed cyclocross bike for a friend. Nate built a mountain bike. We were both hooked.
+That example was inspiring. I started doing small fabrication work, adding dropouts to an old frame, making a front rack, adding braze-ons where they were needed. Then I bought a tube set. I built a singlespeed cyclocross bike for a friend. There is some unexplainable magic that happens when raw materials are joined into a usable machine. Swinging my leg over that first bike and pedaling it away, I felt like a wizard. Nate built a mountain bike for himself and we were both hooked.
 
 
 <figure class="post-image">
@@ -28,7 +28,7 @@ That example was inspiring. I started doing small fabrication work, adding dropo
 
 ## A perfect storm
 
-In early 2007 I attended the North American Handmade Bicycle Show in San Jose. It was only the third year of the show and the momentum behind handmade bikes was growing. I got to see builders I admired: the Sycip brothers, Curtis Inglis, Tom Ritchey showing a fillet-brazed road bike that was decades old and somehow completely modern. I was also there at the request of Joel Grover, the Bike Gallery's main buyer, who asked me to keep my eyes open for builders who might be a good fit for the shop's showroom.
+In early 2007 I attended the North American Handmade Bicycle Show in San Jose. It was only the third year of the show and the momentum behind handmade bikes was growing. I got to see builders I admired: Richard Sachs, the Sycip brothers, Curtis Inglis, Tom Ritchey showing a fillet-brazed road bike that was decades old and somehow completely modern. I was also there at the request of Joel Grover, the Bike Gallery's main buyer, who asked me to keep my eyes open for builders who might be a good fit for the shop's showroom.
 
 At the end of the show they announced that the following year's NAHBS would be held in Portland, Oregon.
 
@@ -77,7 +77,7 @@ Lance Armstrong wandered the aisles. So did Robin Williams. We came away with th
 
 ## The Early Years
 
-Building out of my garage, Nate and I were slow and deliberate. We wanted to be proud of every bike we put the Signal name on, and that took time. The Bike Gallery arrangement turned out to be more safety net than sales channel. In the entire run of that partnership we sold exactly one bike through the shop. That came when our fitter in Lake Oswego called to ask if we could build a bike for Joel Przybilla, the seven-foot center for the Portland Trail Blazers. It turns out that being a giant human being makes buying a bicycle that fits a bit difficult.
+Building out of my garage, Nate and I were slow and deliberate. We wanted to be proud of every bike we put the Signal name on, and that took time. The Bike Gallery arrangement turned out to be more safety net than sales channel. We discovered that our customers wanted to come directly to us and not operate through the Bike Gallery. One of the few bikes that we did sell came with a unique challenge. Our fitter in Lake Oswego shop called to ask if we could build a bike for Joel Przybilla, the seven-foot center for the Portland Trail Blazers. It turns out that being a giant human being makes buying a bicycle that fits a bit difficult.
 
 <figure class="post-image">
   <img src="/images/signal/VanillaGorilla.jpg" alt="Large Signal mountain bike">
@@ -86,9 +86,9 @@ Building out of my garage, Nate and I were slow and deliberate. We wanted to be 
 
 By our second year the Bike Gallery relationship had run its course. We hadn't been profitable for them, and we both agreed to a buyout. We were on our own, still working at the shop part time, building bikes in the margins.
 
-We kept going to NAHBS. Indianapolis. Charlotte. The show represented our biggest annual expense but it paid back in coverage. We had magazine features, blog posts, partnership opportunities. More than that, it was where we got to become friends with builders we had admired from a distance. I have a memory of sitting around in a hotel lobby at one of those shows, maybe it was Indy, and looking at the people gathered around the circle and thinking "that's Mark DiNucci."
+We kept going to NAHBS. Indianapolis, then Richmond. The show represented our biggest annual expense but it paid back in coverage. We had magazine features, blog posts, partnership opportunities. More than that, it was where we got to become friends with builders we had admired from a distance. I have a memory of sitting around in a hotel lobby at one of those shows, maybe it was Indy, and looking at the people gathered around the circle and thinking "that's Mark DiNucci."
 
-I also remember a visit from the industrial design team at Trek that was in town. The small team dropped in to have a look at our space and it was kind of a crazy moment for us. Here we were working in a dirty tiny space, but laboring over projects that were special to us. The team at Trek said how much they would love to be doing that kind of work. I thought how cool it must be to work for a huge company and have a salary. And probably a nice computer and chair to sit in. I suppose each of us were probably just not seeing the green grass on our respective sides of the fence.
+Around that time we had a visit from the industrial design team at Trek that was in town. The small team dropped in to have a look at our space and it was kind of a crazy moment for us. Here we were working in a dirty tiny space, but laboring over projects that were special to us. The team at Trek said how much they would love to be doing that kind of work. I thought how cool it must be to work for a huge company and have a salary. And probably a nice computer and chair to sit in. I suppose each of us were probably just not seeing the green grass on our respective sides of the fence.
 
 
 <figure class="post-image">
@@ -147,7 +147,7 @@ That same year we moved out of the garage and into a space on N Page Street. Our
 This was Signal's high water mark. We were building full time. We had connected with a Japanese shop owner at NAHBS and were selling bikes through him. Signal frames had gone to China, Jakarta, several European countries, and across the US. We were approached by Anthropologie to build a made-in-America city bike for their retail stores. We tried hard to make the numbers work. A step-through steel frame with a custom front rack housing a fully equipped wicker picnic basket, retailing at $6,000. The margins were nearly nothing for us and the price was still too high for Anthropologie's customers. The stores eventually had to slash prices to move them.
 
 <figure class="post-image">
-  <img src="/images/signal/anthropologie2.jpg" alt="the Anthropologie bike">
+  <img src="/images/signal/picnicbike.jpg" alt="the Anthropologie bike">
   <figcaption>The picnic bike built exclusively for Anthropologie</figcaption>
 </figure>
 
