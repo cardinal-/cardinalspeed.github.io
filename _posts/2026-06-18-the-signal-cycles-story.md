@@ -92,8 +92,8 @@ Around that time we had a visit from the industrial design team at Trek that was
 
 
 <figure class="post-image">
-  <img src="/images/signal/signal-05.jpg" alt="A detail shot of a frame in progress">
-  <figcaption>One of the signature details on our early frames</figcaption>
+  <img src="/images/signal/signal-07.jpg" alt="Signal bike showing our earthy color palette">
+  <figcaption>earthy tones with a pop of accent color</figcaption>
 </figure>
 
 ## Color as Language
@@ -101,15 +101,15 @@ Around that time we had a visit from the industrial design team at Trek that was
 Nate and I were painters before we were builders, and that background showed up most clearly in how we thought about color. Where other builders defaulted to primaries or racier palettes, we leaned into earthy tones with cooler pops. We were inspired by the colors we painted with: ochre, burnt orange, chocolate brown, powder blue, cream. Colors that felt more classic to us, less like sporting goods.
 
 <figure class="post-image">
-  <img src="/images/signal/signal-08.jpg" alt="Signal bikes showing the earthy color palette">
-  <figcaption>earthy tones with a pop of accent color</figcaption>
+  <img src="/images/signal/signal-05.jpg" alt="A detail shot of a frame in progress">
+  <figcaption>One of the signature details on our early frames</figcaption>
 </figure>
 
 That attention extended to everything. We'd regularly spend time on details that most customers would likely never notice. No one was paying us for those hours. We did it anyway.
 
 
 <figure class="post-image">
-  <img src="/images/signal/signal-07.png" alt="Signal cyclocross team racing">
+  <img src="/images/signal/signal-08.png" alt="Signal cyclocross team racing">
   <figcaption>the Signal Cycles cyclocross team bike</figcaption>
 </figure>
 
