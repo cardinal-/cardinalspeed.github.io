@@ -157,6 +157,12 @@ The financial reality was part of our conversations almost every day.
 
 ---
 
+## Ziba and Oregon Manifest
+
+In February 2011, shortly before we moved to Page Street, a small team of industrial designers from Portland's Ziba Design came to visit. Ziba had been invited to participate in Oregon Manifest, a design competition built around the question "What is the ultimate city bike?" Each entry had to survive a 50-mile field test demonstrating real-world cargo capacity. Ziba was interviewing three builders and chose Signal as their fabrication partner.
+
+The next six months were an intensive education. Ziba showed us how industrial designers worked, how they uncovered user needs, built insights from research, and translated those insights into designed solutions. Our job was to fabricate the bike and to evaluate whether their ideas were buildable and to push back when they weren't. The whole process was documented in monthly posts on the industrial design website Core77.
+
 <figure class="post-image">
   <img src="/images/signal/Fremont.jpg" alt="The Oregon Manifest city bike prototype">
   <figcaption>the Ziba collaboration bike, built for Oregon Manifest</figcaption>
@@ -166,12 +172,6 @@ The financial reality was part of our conversations almost every day.
   <img src="/images/signal/FremontBook.png" alt="The Fremont book">
   <figcaption>Ziba published a nice book documenting our collaboration</figcaption>
 </figure>
-
-## Ziba and Oregon Manifest
-
-In February 2011, shortly before we moved to Page Street, a small team of industrial designers from Portland's Ziba Design came to visit. Ziba had been invited to participate in Oregon Manifest, a design competition built around the question "What is the ultimate city bike?" Each entry had to survive a 50-mile field test demonstrating real-world cargo capacity. Ziba was interviewing three builders and chose Signal as their fabrication partner.
-
-The next six months were an intensive education. Ziba showed us how industrial designers worked, how they uncovered user needs, built insights from research, and translated those insights into designed solutions. Our job was to fabricate the bike and to evaluate whether their ideas were buildable and to push back when they weren't. The whole process was documented in monthly posts on the industrial design website Core77.
 
 Our bike was a twin top-tube step-through frame with a wraparound headtube, an homage to the Redline RL 20ii, a freestyle BMX bike I'd obsessed over as a teenager. It was unlike anything we had built before.
 
