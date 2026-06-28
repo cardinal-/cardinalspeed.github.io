@@ -4,12 +4,12 @@ title: "Signal Cycles: A Portland Story"
 date: 2026-06-18
 category: Bikes
 summary: How two bike mechanics with painting degrees started a building one of a kind dream machines for about a decade, before quietly letting it go.
-intro: In the fall of 2007, two bike mechanics and former painting majors picked up a torch in a small garage in North Portland. This is how Signal Cycles started, what it became, and how it ended.
+intro: In the fall of 2007, I started a bike company in a small garage in North Portland. This is how Signal Cycles started, what it became, and how it ended.
 ---
 
 <figure class="post-image">
   <img src="/images/signal/signal-01.jpg" alt="Signal Cycles garage workshop">
-  <figcaption>the garage where it all started</figcaption>
+  <figcaption>The garage where it all started</figcaption>
 </figure>
 
 ## The Setup
@@ -23,7 +23,7 @@ That example was inspiring. I started doing small fabrication work, adding dropo
 
 <figure class="post-image">
   <img src="/images/signal/signal-02.jpg" alt="Nate and the author early on">
-  <figcaption>early days, before Signal had a name</figcaption>
+  <figcaption>Nate in the early days</figcaption>
 </figure>
 
 ## A perfect storm
@@ -32,7 +32,7 @@ In early 2007 I attended the North American Handmade Bicycle Show in San Jose. I
 
 At the end of the show they announced that the following year's NAHBS would be held in Portland, Oregon.
 
-I thought: <i>maybe I should start a bike company.</i>
+I thought: <i>maybe I should start a bike company...</i>
 
 
 <figure class="post-image">
@@ -51,12 +51,12 @@ Without Joel's optimism I don't think we would have had the same trajectory. Ano
   <figcaption>Brett Flemming in his natural environment</figcaption>
 </figure>
 
-We decided to debut Signal at NAHBS Portland with four bikes: a 29-inch singlespeed mountain bike, a 700c city bike with custom racks, a geared cyclocross bike, and a road bike. We started building in September 2007. The show opened February 8, 2008.
+We decided to debut Signal at NAHBS Portland with four bikes: a 29-inch singlespeed mountain bike, a 700c city bike with custom racks, a geared cyclocross bike, and a lugged road bike. We started building in September 2007. The show opened February 8, 2008.
 
 
 <figure class="post-image">
   <img src="/images/signal/signal-04.jpg" alt="Early Signal frame jig">
-  <figcaption>the frame jig Brett built from scratch</figcaption>
+  <figcaption>The frame jig Brett built from scratch</figcaption>
 </figure>
 
 ## Portland, February 2008
@@ -65,7 +65,7 @@ The show drew thousands of people, enough that the Portland Fire Marshal shut th
 
 It went well.
 
-At the show we met a couple that were in the process of creating a coffee table book on handmade bicycles. They were including builders like Richard Sachs, Vanilla, Bruce Gordon, Dario Pegoretti, Steve Potts, and Alex Singer, with a foreword written by Phil Liggett. When they asked Signal to be a featured builder, I was shocked. We had existed for roughly five months.
+At the show we met a team that were in the process of creating a coffee table book on handmade bicycles. They were including builders like Richard Sachs, Vanilla, Bruce Gordon, Dario Pegoretti, Steve Potts, and Alex Singer, with a foreword written by Phil Liggett (!). When they asked Signal to be a featured builder, I was shocked. We had existed for roughly less than a year.
 
 Lance Armstrong wandered the aisles. So did Robin Williams. We came away with three orders and the beginnings of our little company.
 
@@ -101,7 +101,7 @@ Around that time we had a visit from the industrial design team at Trek that was
 Nate and I were painters before we were builders, and that background showed up most clearly in how we thought about color. Where other builders defaulted to primaries or racier palettes, we leaned into earthy tones with cooler pops. We were inspired by the colors we painted with: ochre, burnt orange, chocolate brown, powder blue, cream. Colors that felt more classic to us, less like sporting goods.
 
 <figure class="post-image">
-  <img src="/images/signal/signal-07.jpg" alt="Signal bikes showing the earthy color palette">
+  <img src="/images/signal/signal-08.jpg" alt="Signal bikes showing the earthy color palette">
   <figcaption>earthy tones with a pop of accent color</figcaption>
 </figure>
 
@@ -109,15 +109,15 @@ That attention extended to everything. We'd regularly spend time on details that
 
 
 <figure class="post-image">
-  <img src="/images/signal/signal-08.png" alt="Signal cyclocross team racing">
+  <img src="/images/signal/signal-07.png" alt="Signal cyclocross team racing">
   <figcaption>the Signal Cycles cyclocross team bike</figcaption>
 </figure>
 
 ## The Cyclocross Team
 
-Portland's cyclocross scene in those years was electric, and Signal was part of it. We started a grassroots team by helping friends get bikes together, approached Chris King and AlphaQ for donated parts, and batch-built frames to get riders on Signal bikes quickly. We had fast men and women racing for us every weekend for about three seasons.
+Portland's cyclocross scene in those years was electric, and Signal was part of it. We started a grassroots team by approaching Chris King and AlphaQ for donated parts, and then batch-built frames to get riders on Signal bikes quickly. We had fast men and women racing for us every weekend for about three seasons.
 
-The team wound down when the cross scene started feeling oversaturated, and also when Nate and I both became fathers. Weekends looked different. But seeing Marila, Pete, Carey, Dave and eventually Shannon on our bikes felt great.
+The team wound down when the cross scene started feeling oversaturated, and also when Nate and I had dad duties that made the weekends look different. But seeing Marila, Pete, Carey, Dave and eventually Shannon on our bikes felt great.
 
 
 <figure class="post-image">
@@ -127,11 +127,11 @@ The team wound down when the cross scene started feeling oversaturated, and also
 
 ## Austin, 2011
 
-NAHBS that year was in Austin, Texas. I convinced a group of Oregon builders, Ira Ryan, Sean from Vertigo, the Vanilla crew, to share a large Airbnb near the convention center. It seemed like a good idea. The building turned out to be directly above one of the bars on 6th Street, which is Austin's famous strip of linked music venues. We tried to sleep knowing the next few days would be demanding. The music ran until 2am. Then the voices on the street for another hour. Then the glass recycling trucks.
+NAHBS that year was in Austin, Texas. I convinced a group of Oregon builders, Ira Ryan, Sean from Vertigo, the Vanilla crew, to share a large Airbnb near the convention center. It seemed like a good idea. The building turned out to be directly above one of the bars on 6th Street, which is Austin's famous strip of linked music venues. I say famous, but somehow I hadn't gotten the word. We tried to sleep knowing the next few days would be demanding. The music ran until 2am. Then the voices on the street for another hour. Then the glass recycling trucks.
 
 My friends were not pleased with me.
 
-Signal won our only NAHBS trophy that weekend. Best City Bike, for a stainless steel lugged singlespeed town cruiser we built for a customer named Mark. He told us what he wanted, a bike to ride around Portland while visiting his daughter, and trusted us to make it special. We went stainless for the lugs, paired it with a nickel-plated brushed stem we built ourselves, and let the silver and chrome components tie the whole thing together. The judges liked it.
+Signal won our only NAHBS trophy that weekend. Best City Bike, for a stainless steel lugged singlespeed town cruiser we built for a customer named Mark. He told us what he wanted, a bike to ride around Portland while visiting his daughter, and trusted us to make it special. We went stainless for the lugs, paired it with a nickel-plated brushed stem we built ourselves, and let the silver and chrome components tie the whole thing together. The judges were iimpressed, but more importantly, Mark loved it.
 
 ---
 
@@ -142,7 +142,7 @@ Signal won our only NAHBS trophy that weekend. Best City Bike, for a stainless s
 
 ## Page Street
 
-That same year we moved out of the garage and into a space on N Page Street. Our neighbors were Metropolis Bike Shop, frame builder Joseph Ahearne, Mitch Pryor of MAP Cycles, and Greg Hudson of Corsa Concepts. A tight little community of bike people sharing walls.
+That same year we moved out of the garage and into a space on North Page Street. Our neighbors were Metropolis Bike Shop, frame builder Joseph Ahearne, Mitch Pryor of MAP Cycles, and Greg Hudson of Corsa Concepts. A tight little community of bike people sharing walls.
 
 This was Signal's high water mark. We were building full time. We had connected with a Japanese shop owner at NAHBS and were selling bikes through him. Signal frames had gone to China, Jakarta, several European countries, and across the US. We were approached by Anthropologie to build a made-in-America city bike for their retail stores. We tried hard to make the numbers work. A step-through steel frame with a custom front rack housing a fully equipped wicker picnic basket, retailing at $6,000. The margins were nearly nothing for us and the price was still too high for Anthropologie's customers. The stores eventually had to slash prices to move them.
 
@@ -171,7 +171,7 @@ The financial reality was part of our conversations almost every day.
 
 In February 2011, shortly before we moved to Page Street, a small team of industrial designers from Portland's Ziba Design came to visit. Ziba had been invited to participate in Oregon Manifest, a design competition built around the question "What is the ultimate city bike?" Each entry had to survive a 50-mile field test demonstrating real-world cargo capacity. Ziba was interviewing three builders and chose Signal as their fabrication partner.
 
-The next six months were an intensive education. Ziba showed us how industrial designers worked, how they uncovered user needs, built insights from research, and translated those insights into designed solutions. Our job was to evaluate whether their ideas were buildable and to push back when they weren't. The whole process was documented in monthly posts on the industrial design website Core77.
+The next six months were an intensive education. Ziba showed us how industrial designers worked, how they uncovered user needs, built insights from research, and translated those insights into designed solutions. Our job was to fabricate the bike and to evaluate whether their ideas were buildable and to push back when they weren't. The whole process was documented in monthly posts on the industrial design website Core77.
 
 Our bike was a twin top-tube step-through frame with a wraparound headtube, an homage to the Redline RL 20ii, a freestyle BMX bike I'd obsessed over as a teenager. It was unlike anything we had built before.
 
