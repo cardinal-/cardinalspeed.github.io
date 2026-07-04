@@ -186,7 +186,7 @@ Working with Ziba planted something in me. I started thinking seriously about in
 
 ## The End
 
-In 2013 after 13 years in Portland, I made the decision to move to Savannah, Georgia to pursue a master's degree in industrial design. Nate understood. We had many conversations about the future and the future of our growing families. I know that a lot of people find that business partnerships are toxic to friendships, but I am so grateful that I met Nate and that we got to spend all those years working together on our company. Somehow we were able to understand and appreciate our differences as strength. There were many times when I was down and Nate helped pick my back up, and I believe I did the same for him.
+In 2013 after 13 years in Portland, I made the decision to move to Savannah, Georgia to pursue a master's degree in industrial design. Nate understood. We had many conversations about the future of signal and our growing families. I know that a lot of people find that business partnerships are toxic to friendships, but I am so grateful that I met Nate and that we got to spend all those years working together on our company. Somehow we were able to understand and appreciate our differences as strength. There were many times when I was down and Nate helped pick my back up, and I believe I did the same for him.
 
 He kept building solo after I left. Over time the joy for it faded. He had two more kids by then, his wife was working full time, and the bandwidth just wasn't there. He stopped taking new orders, finished the bikes he had promised, and closed the shop. Signal's last frame shipped in the spring of 2018.
 
