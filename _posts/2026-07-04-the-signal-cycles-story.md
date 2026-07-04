@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Signal Cycles: A Portland Story"
-date: 2026-06-18
+date: 2026-07-04
 category: Bikes
 summary: How two bike mechanics with painting degrees started a building one of a kind dream machines for about a decade, before quietly letting it go.
 intro: In the fall of 2007, I started a bike company in a small garage in North Portland. This is how Signal Cycles started, what it became, and how it ended.
