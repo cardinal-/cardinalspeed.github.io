@@ -131,7 +131,7 @@ NAHBS that year was in Austin, Texas. I convinced a group of Oregon builders, Ir
 
 My friends were not pleased with me.
 
-Signal won our only NAHBS trophy that weekend. <a href="https://bikeportland.org/2011/02/27/two-portland-builders-take-home-top-awards-from-nahbs-48807" target="_blank">Best City Bike</a>, for a stainless steel lugged singlespeed town cruiser we built for a customer named Mark. He told us what he wanted, a bike to ride around Portland while visiting his daughter, and trusted us to make it special. We went stainless for the lugs, paired it with a nickel-plated brushed stem we built ourselves, and let the silver and chrome components tie the whole thing together. The judges were iimpressed, but more importantly, Mark loved it.
+Signal won our only NAHBS trophy that weekend. <a href="https://bikeportland.org/2011/02/27/two-portland-builders-take-home-top-awards-from-nahbs-48807" target="_blank">Best City Bike</a>, for a stainless steel lugged singlespeed town cruiser we built for a customer named Mark. He told us what he wanted, a bike to ride around Portland while visiting his daughter, and trusted us to make it special. We went stainless for the lugs, paired it with a nickel-plated brushed stem we built ourselves, and let the silver and chrome components tie the whole thing together. The judges were impressed, but more importantly, Mark loved it.
 
 ---
 
