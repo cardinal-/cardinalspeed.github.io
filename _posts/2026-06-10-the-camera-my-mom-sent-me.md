@@ -5,6 +5,7 @@ date: 2026-06-10
 category: Photography
 summary: A Canon AE-1, a bad trade I made in the early 2000s, and the power of objects that connect us to people.
 intro: Some things are worth more than what they cost. The Canon AE-1 sitting on my desk right now is one of them.
+published: false
 ---
 
 ![Canon AE-1 front view](/images/AE-1-01.png)

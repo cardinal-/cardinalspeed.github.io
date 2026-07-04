@@ -5,6 +5,7 @@ date: 2026-06-13
 category: Cars
 summary: A 1973 BMW 2002, a Craigslist ad in Austin, and a paper trail that leads back to a US Army base outside Frankfurt.
 intro: It was time to stop telling myself "someday".
+published: false
 ---
 
 ![1973 BMW 2002 on the flatbed, front view](/images/2002-06.jpg)
