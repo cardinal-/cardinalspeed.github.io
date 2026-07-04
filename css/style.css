@@ -4,7 +4,7 @@
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-html { height: 100%; }
+html { height: 100%; overflow-y: scroll; }
 
 body {
   font-family: 'Inter', sans-serif;
@@ -95,13 +95,20 @@ ul { list-style: none; }
 
 /* Nav */
 .site-nav {
-  padding: 1.25rem 1.5rem;
   border-bottom: 0.5px solid #e0e0e0;
   background: #E4E2DE;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  transition: transform 0.3s ease;
+}
+.site-nav.nav-hidden {
+  transform: translateY(-100%);
 }
 .nav-inner {
   max-width: 860px;
   margin: 0 auto;
+  padding: 1.25rem 1.5rem 1.75rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -114,6 +121,13 @@ ul { list-style: none; }
   text-transform: uppercase;
   color: #111;
   text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+.nav-logo img {
+  height: 93px;
+  width: auto;
+  max-width: none;
 }
 .nav-links {
   display: flex;
@@ -204,7 +218,6 @@ ul { list-style: none; }
   gap: 1rem;
   align-items: center;
 }
-.post-card:first-child { border-top: 0.5px solid #e0e0e0; }
 .post-card-content { display: flex; flex-direction: column; gap: 0.3rem; }
 .post-meta {
   font-size: 11px;
@@ -336,6 +349,63 @@ ul { list-style: none; }
   display: block;
   overflow: hidden;
 }
+
+/* Home */
+.home-hero {
+  position: relative;
+  min-height: 60vh;
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+}
+.home-hero-bg {
+  position: absolute;
+  inset: 0;
+  background-image: url('/images/hero.jpg');
+  background-size: cover;
+  background-position: center 60%;
+  z-index: 0;
+}
+.home-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.1) 40%, rgba(0,0,0,0.7) 100%);
+  z-index: 1;
+}
+.home-hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+  width: 100%;
+}
+.home-hero-eyebrow { color: rgba(255,255,255,0.7); margin-bottom: 0.75rem; }
+.home-hero-title {
+  font-family: 'Big Shoulders Display', sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0.01em;
+  color: #fff;
+  max-width: 620px;
+  margin-bottom: 1.5rem;
+}
+.home-hero-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #fff;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(255,255,255,0.5);
+  padding-bottom: 2px;
+  letter-spacing: 0.04em;
+}
+.home-hero-cta:hover { border-color: #fff; text-decoration: none; }
+.home-latest { padding-top: 3rem; }
+.home-latest-head { margin-bottom: 1rem; }
 
 /* About */
 .about-content h2 {

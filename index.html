@@ -1,133 +1,32 @@
 ---
+layout: default
+description: Cars, bikes, motorcycles — the things worth fixing and the culture around them.
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>cardinalspeed</title>
-  <meta name="description" content="Cars, bikes, motorcycles — the things worth fixing and the culture around them. Site coming soon." />
+<section class="home-hero">
+  <div class="home-hero-bg"></div>
+  <div class="home-hero-overlay"></div>
+  <div class="home-hero-content">
+    <p class="t-meta home-hero-eyebrow">Cars, bikes, motorcycles</p>
+    <h1 class="home-hero-title">The things worth fixing, and the culture around them.</h1>
+    {% assign latest = site.posts.first %}
+    {% if latest %}
+    <a href="{{ latest.url }}" class="home-hero-cta">Read the latest post &rarr;</a>
+    {% endif %}
+  </div>
+</section>
 
-  <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VT9F381F90"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-VT9F381F90');
-  </script>
-
-  <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    html, body { height: 100%; }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-      background: #111;
-      color: #fff;
-      min-height: 100vh;
-    }
-    .hero {
-      position: relative;
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-    }
-    .hero-bg {
-      position: absolute;
-      inset: 0;
-      background-image: url('/images/hero.jpg');
-      background-size: cover;
-      background-position: center 60%;
-      z-index: 0;
-    }
-    .hero-overlay {
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.1) 40%, rgba(0,0,0,0.65) 100%);
-      z-index: 1;
-    }
-    .hero-content {
-      position: relative;
-      z-index: 2;
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 0 1.5rem;
-      width: 100%;
-    }
-    nav { padding: 1.5rem 0; }
-    .nav-logo img { height: 96px; width: auto; display: block; }
-    .center {
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-      align-items: flex-start;
-      justify-content: flex-end;
-      padding-bottom: 4.5rem;
-      gap: 0.9rem;
-    }
-    .wordmark {
-      font-size: 36px;
-      font-weight: 500;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: #fff;
-      line-height: 1;
-    }
-    .tagline {
-      font-family: Georgia, serif;
-      font-size: 16px;
-      color: rgba(255,255,255,0.8);
-      max-width: 420px;
-      line-height: 1.6;
-    }
-    .coming-soon {
-      font-size: 11px;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: rgba(255,255,255,0.5);
-      margin-top: 0.25rem;
-    }
-    .etsy-link {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      font-size: 13px;
-      font-weight: 500;
-      color: #fff;
-      text-decoration: none;
-      border-bottom: 1px solid rgba(255,255,255,0.5);
-      padding-bottom: 2px;
-      letter-spacing: 0.04em;
-      margin-top: 0.5rem;
-    }
-    .etsy-link:hover { border-color: #fff; }
-  </style>
-<link rel="icon" type="image/png" href="/favicon-01.png" />
-  <link rel="apple-touch-icon" href="/favicon.png" />
-  <meta charset="UTF-8" />
-</head>
-<body>
-  <section class="hero">
-    <div class="hero-bg"></div>
-    <div class="hero-overlay"></div>
-    <div class="hero-content">
-      <nav>
-        <a href="/" class="nav-logo" aria-label="cardinalspeed">
-          <img src="/images/logo.svg" alt="cardinalspeed" height="96" />
-        </a>
-      </nav>
-      <div class="center">
-        <div class="wordmark">cardinalspeed</div>
-        <p class="tagline">Cars, bikes, motorcycles.</p>
-        <p class="coming-soon">Site coming soon</p>
-        <a href="https://www.etsy.com/shop/cardinalspeed" class="etsy-link" target="_blank" rel="noopener">
-          Shop on Etsy &rarr;
-        </a>
+<div class="page-wrap">
+  <section class="home-latest">
+    <h2 class="t-section-head home-latest-head">Latest post</h2>
+    {% if latest %}
+    <article class="post-card">
+      <div class="post-card-content">
+        <p class="post-meta">{{ latest.date | date: "%B %Y" }} &mdash; <span class="post-cat cat-{{ latest.category | downcase }}">{{ latest.category }}</span></p>
+        <h2><a href="{{ latest.url }}">{{ latest.title }}</a></h2>
+        {% if latest.summary %}<p class="post-summary">{{ latest.summary }}</p>{% endif %}
       </div>
-    </div>
+      <div class="post-arrow">&#8594;</div>
+    </article>
+    {% endif %}
   </section>
-</body>
-</html>
+</div>
