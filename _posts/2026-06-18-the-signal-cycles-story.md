@@ -201,3 +201,8 @@ Signal got one thing right and one thing wrong, and they were the same thing. We
 We knew that. We did it anyway.
 
 That's probably the most honest summary of Signal Cycles I can offer: two painters who loved bikes, who cared more about the work than the margins, who built something beautiful for about a decade and then, quietly, let it go.
+
+<figure class="post-image">
+  <img src="/images/signal/signal.png" alt="Nate and the author standing in the Signal Cycles shop">
+  <figcaption>Nate and me, in the shop</figcaption>
+</figure>

@@ -298,10 +298,43 @@ ul { list-style: none; }
   color: #888;
   margin-top: 0.5rem;
 }
+.js .post-image {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.9s ease, transform 0.9s ease;
+}
+.js .post-image.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+@media (prefers-reduced-motion: reduce) {
+  .js .post-image {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
 .post-body hr {
   border: none;
   border-top: 0.5px solid #e0e0e0;
   margin: 2.5rem 0;
+}
+.post-comments {
+  margin: 3rem 0 1rem;
+  padding-top: 2rem;
+  border-top: 0.5px solid #e0e0e0;
+}
+.post-comments h2 {
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #999;
+  margin-bottom: 1.25rem;
+}
+#cusdis_thread iframe {
+  display: block;
+  overflow: hidden;
 }
 
 /* About */

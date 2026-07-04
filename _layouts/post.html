@@ -10,4 +10,18 @@ layout: default
   <section class="post-body">
     {{ content }}
   </section>
+  {% if site.cusdis_app_id and site.cusdis_app_id != "" %}
+  <section class="post-comments">
+    <h2>Comments</h2>
+    <div id="cusdis_thread"
+      data-host="https://cusdis.com"
+      data-app-id="{{ site.cusdis_app_id }}"
+      data-page-id="{{ page.url }}"
+      data-page-url="{{ site.url }}{{ page.url }}"
+      data-page-title="{{ page.title }}"
+    ></div>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script src="/js/cusdis-resize.js"></script>
+  </section>
+  {% endif %}
 </article>

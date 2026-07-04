@@ -6,6 +6,9 @@ baseurl: ""
 author: Matt Cardinal
 email: ""
 
+# Cusdis comments — get this from https://cusdis.com after registering the site
+cusdis_app_id: "f9e11fd2-d3a5-455c-8693-cb63a13f4694"
+
 # Build settings
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title/
@@ -16,3 +19,5 @@ exclude:
   - WORKFLOW.md
   - Gemfile
   - Gemfile.lock
+  - vendor
+  - .bundle
