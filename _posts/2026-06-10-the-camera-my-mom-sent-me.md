@@ -42,7 +42,7 @@ It worked. Canon sold over a million AE-1s in the first two years. They marketed
 
 ![Canon AE-1 lens detail](/images/AE-1-04.png)
 
-The body is compact and well-balanced, the FD lens mount is excellent, and the glass available for it is really good. It's not an F-1, (Canon's professional body at the time was a different animal entirely) but the AE-1 was never trying to be. It was trying to be dependable, accessible, and capable enough to get out of your way. Fifty years later, that's still what it is.
+The body is compact and well-balanced, the FD lens mount is excellent, and the glass available for it is really good. It's not an F-1, Canon's professional body was a different animal. The AE-1 was built to be dependable and get out of your way. Fifty years later, that's still what it is.
 
 The shutter has a characteristic sound that anyone who shot with one in the 80s will recognize immediately. There's a small mechanical squeal on some bodies called the "AE-1 squeal" that comes from the mirror damper drying out. Easy fix with a drop of lubricant. Mine doesn't have it, which either means the previous owner sorted it out or the camera lived an easy life before it got to me.
 
