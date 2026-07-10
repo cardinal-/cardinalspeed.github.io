@@ -421,3 +421,15 @@ ul { list-style: none; }
   line-height: 1.75;
   color: #111;
 }
+
+@media (max-width: 420px) {
+  .home-hero-title {
+    font-size: 32px;
+  }
+  .nav-logo img {
+    height: 70px;
+  }
+  .nav-inner {
+    padding: 15px 1.5rem 21px;
+  }
+}
